@@ -10,3 +10,4 @@ test for remote
 
 
 test for conflicts
+test for conflicts by base
