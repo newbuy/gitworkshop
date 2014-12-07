@@ -10,3 +10,4 @@ test for remote
 
 
 test for conflicts
+ssh conflicts for base
